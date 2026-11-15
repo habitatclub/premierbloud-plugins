@@ -3,5 +3,10 @@
     "name": "SporCafe",
     "fileName": "sporcafe-v4.apk",
     "downloadUrl": "https://github.com/omnivushqdev/premierbloud-plugins/releases/download/v4/sporcafe-v4.apk"
+  },
+  {
+    "name": "FilmEkseni",
+    "fileName": "filmekseni-v1.apk",
+    "downloadUrl": "https://github.com/omnivushqdev/premierbloud-plugins/releases/download/v5/filmekseni-v1.apk"
   }
 ]
