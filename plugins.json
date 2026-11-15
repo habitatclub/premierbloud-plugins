@@ -38,5 +38,10 @@
     "name": "Tabii TV",
     "fileName": "tabii-v1.apk",
     "downloadUrl": "https://github.com/tmediaagent/tmediaagentapp/releases/download/v17/tabii-v1.apk"
+  },
+  {
+    "name": "Macko",
+    "fileName": "macko-v1.apk",
+    "downloadUrl": "https://github.com/omnivushqdev/premierbloud-plugins/releases/download/v21/macko-v1.apk"
   }
 ]
