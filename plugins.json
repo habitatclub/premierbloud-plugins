@@ -8,5 +8,10 @@
     "name": "FilmEkseni",
     "fileName": "filmekseni-v5.apk",
     "downloadUrl": "https://github.com/omnivushqdev/premierbloud-plugins/releases/download/v9/filmekseni-v5.apk"
+  },
+  {
+    "name": "FullHDFilm",
+    "fileName": "fullhdfilm-v1.apk",
+    "downloadUrl": "https://github.com/omnivushqdev/premierbloud-plugins/releases/download/v10/fullhdfilm-v1.apk"
   }
 ]
