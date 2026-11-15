@@ -1,47 +1,47 @@
 [
-  {
-    "name": "FilmEkseni",
-    "fileName": "filmekseni-v5.apk",
-    "downloadUrl": "https://github.com/tmediaagent/tmediaagentapp/releases/download/v5/filmekseni-v5.apk"
-  },
-  {
-    "name": "FullHDFilm",
-    "fileName": "fullhdfilm-v2.apk",
-    "downloadUrl": "https://github.com/tmediaagent/tmediaagentapp/releases/download/v2/fullhdfilm-v2.apk"
-  },
-  {
-    "name": "Dizilla",
-    "fileName": "dizilla-v3.apk",
-    "downloadUrl": "https://github.com/tmediaagent/tmediaagentapp/releases/download/v7/dizilla-v3.apk"
-  },
-  {
-    "name": "Sahadan",
-    "fileName": "sahadan-v9.apk",
-    "downloadUrl": "https://github.com/tmediaagent/tmediaagentapp/releases/download/v22/sahadan-v9.apk"
-  },
-  {
-    "name": "Geil TV",
-    "fileName": "geil-v1.apk",
-    "downloadUrl": "https://github.com/tmediaagent/tmediaagentapp/releases/download/v14/geil-v1.apk"
-  },
-  {
-    "name": "DGO",
-    "fileName": "dogumgunu-v1.apk",
-    "downloadUrl": "https://github.com/tmediaagent/tmediaagentapp/releases/download/v15/dogumgunu-v1.apk"
-  },
-  {
-    "name": "Ulusal Kanallar",
-    "fileName": "ulusalkanallar-v1.apk",
-    "downloadUrl": "https://github.com/tmediaagent/tmediaagentapp/releases/download/v16/ulusalkanallar-v1.apk"
-  },
-  {
-    "name": "Tabii TV",
-    "fileName": "tabii-v1.apk",
-    "downloadUrl": "https://github.com/tmediaagent/tmediaagentapp/releases/download/v17/tabii-v1.apk"
-  },
-  {
-    "name": "Macko",
-    "fileName": "macko-v3.apk",
-    "downloadUrl": "https://github.com/omnivushqdev/premierbloud-plugins/releases/download/v22/macko-v3.apk"
-  }
+    {
+        "name": "FilmEkseni",
+        "fileName": "filmekseni-v5.apk",
+        "downloadUrl": "https://github.com/tmediaagent/tmediaagentapp/releases/download/v5/filmekseni-v5.apk"
+    },
+    {
+        "name": "FullHDFilm",
+        "fileName": "fullhdfilm-v2.apk",
+        "downloadUrl": "https://github.com/tmediaagent/tmediaagentapp/releases/download/v2/fullhdfilm-v2.apk"
+    },
+    {
+        "name": "Dizilla",
+        "fileName": "dizilla-v3.apk",
+        "downloadUrl": "https://github.com/tmediaagent/tmediaagentapp/releases/download/v7/dizilla-v3.apk"
+    },
+    {
+        "name": "Sahadan",
+        "fileName": "sahadan-v9.apk",
+        "downloadUrl": "https://github.com/tmediaagent/tmediaagentapp/releases/download/v22/sahadan-v9.apk"
+    },
+    {
+        "name": "Geil TV",
+        "fileName": "geil-v1.apk",
+        "downloadUrl": "https://github.com/tmediaagent/tmediaagentapp/releases/download/v14/geil-v1.apk"
+    },
+    {
+        "name": "DGO",
+        "fileName": "dogumgunu-v1.apk",
+        "downloadUrl": "https://github.com/tmediaagent/tmediaagentapp/releases/download/v15/dogumgunu-v1.apk"
+    },
+    {
+        "name": "Ulusal Kanallar",
+        "fileName": "ulusalkanallar-v1.apk",
+        "downloadUrl": "https://github.com/tmediaagent/tmediaagentapp/releases/download/v16/ulusalkanallar-v1.apk"
+    },
+    {
+        "name": "Tabii TV",
+        "fileName": "tabii-v1.apk",
+        "downloadUrl": "https://github.com/tmediaagent/tmediaagentapp/releases/download/v17/tabii-v1.apk"
+    },
+    {
+        "name": "Macko",
+        "fileName": "macko-v4.apk",
+        "downloadUrl": "https://github.com/omnivushqdev/premierbloud-plugins/releases/download/v23/macko-v4.apk"
+    }
 ]
